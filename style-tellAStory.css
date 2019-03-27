@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    font-family: Comic Sans MS;
+}
+
+div {
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+    float: left;
+    background-color: lemonchiffon;
+    margin: 3px;
+}
+
+img {
+    max-height: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    border-top: 2px solid black;
+    padding-top: 5px;
+}
